@@ -1,1 +1,1 @@
-# Semantic-UI-Kit for Sketch
+# Semantic-UI-Kit for Sketch and Illustrator
